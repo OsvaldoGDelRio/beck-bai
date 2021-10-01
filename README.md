@@ -1,3 +1,7 @@
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/OsvaldoGDelRio/beck-bai/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/OsvaldoGDelRio/beck-bai/?branch=main)
+[![Code Coverage](https://scrutinizer-ci.com/g/OsvaldoGDelRio/beck-bai/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/OsvaldoGDelRio/beck-bai/?branch=main)
+[![Build Status](https://scrutinizer-ci.com/g/OsvaldoGDelRio/beck-bai/badges/build.png?b=main)](https://scrutinizer-ci.com/g/OsvaldoGDelRio/beck-bai/build-status/main)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/OsvaldoGDelRio/beck-bai/badges/code-intelligence.svg?b=main)](https://scrutinizer-ci.com/code-intelligence)
 # beck-bai
 Librería para la prueba de síntomas de ansiedad de BECK
 
@@ -56,3 +60,6 @@ echo $beck->frase()->frase1()->valorNumero();
 echo $beck->molestia()->numero();
 echo $beck->molestia()->texto();
 ```
+### Ejemplo
+
+Se elaboró un ejemplo de implementación sencillo con Bootstrap y CkEditor, se encuentra en al carpeta web y en el siguiente enlace: [Prueba BECK:BAI - Síntomas de ansiedad](https://beckbai.ticsa.org.mx/)
